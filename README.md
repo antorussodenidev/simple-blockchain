@@ -37,5 +37,4 @@ API_PORT=3001 P2P_PORT=4001 PEERS=ws://localhost:4000 node blockchain.js
 - https://blog.iwanhae.ga/introduction_of_bitcoin
 - https://www.slideshare.net/skimaza/ss-57356762
 - https://organicmedialab.com/2014/01/11/virtuous-cycle-of-bitcoin-mining
-- http://homoefficio.github.io/2016/01/23/BlockChain-기초-개념
 - https://www.ddengle.com/board_free_voted/160514
