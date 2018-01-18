@@ -198,6 +198,7 @@ function BlockChain(trades) {
     }
 }
 
+
 /**
  * running simulation service 
  *
@@ -206,6 +207,7 @@ function BlockChain(trades) {
  * @property {Function} main - run p2p & api server
  *
  */
+
 
 function createTrades() {
     let trades = []
