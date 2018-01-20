@@ -7,7 +7,7 @@ const WebSocket = require('ws')
 const assert = require('assert')
 const merkle = require('merkle')
 
-let API_PORT = process.env.API_PORT || 8000
+let API_PORT = process.env.API_PORT || 3000
 let P2P_PORT = process.env.P2P_PORT || 4000
 let PEERS = process.env.PEERS ? process.env.PEERS.split(',') : []
 
